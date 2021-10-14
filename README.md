@@ -1,1 +1,1 @@
-# Telicom-Churn-Analysis---EDA-Capstone-Project
+# Telicom-Churn-Analysis
